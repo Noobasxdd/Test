@@ -1,0 +1,71 @@
+
+24A Bishop		~			~			~			~								~			~
+25A Tin			~			~			~			~								~			~
+26A Apple		Nymph			Apple			Delinquent		~								Nymph			Surfer (+)
+27A Jurassic		~			~			~			~								~			~
+28A Pirate		~			~			~			~								~			~
+29A Wheel		~			~			~			~								~			~
+30A Vaulter (+)		BW Bird (+)		Miter Saw (+)		Rich Cat (+)		~//Fencer							BW Tank (new)		Nymph
+31A Hip Hop (+)		Apple			Metal (-)		Apple			~								~			Sushi (+)
+32A Toaster		Nymph			Cutter (+)		Delinquent		~								Nymph			Nerd (+)
+33A Welterweight	~			~			~			~								~			~
+34A Nymph		BW Bird (+)		Toaster			Surfer (+)		~								BW Tank	(new) (+)	Fencer
+
+35A Witch		~			~			~			~								~			~
+36A Viking		~			~			~			~								~			~
+37A Hip Hop (+)		~			Weightlifter (+)	Toaster			~								Hip Hop (+)		Figure Skating (+)
+38A Jurassic		~			~			~			~								~			~
+39A Matador		~			~			~			~								~			~
+40A Swimmer (+)		BW Axe (+)		Cat Base Mini (new)	Miter Saw (+)		~//Nymph							BW Cat (+)		Nymph
+41A Pogo		~			~			~			~								~			~
+42A Surfer (+)		Delinquent		Gold (+)		Delinquent		~								~			Toaster
+43A Archer		~			~			~			~								~			~
+44A Wheel		~			~			~			~								~			~
+45A Figure Skating (+)	Bath			Figure Skating (+)	Cat Jobs (+)		~//Vaulter (+)							Bath			Figure Skating (+)
+
+46A Salon		~			~			~			~								~			~
+47A Pogo		~			~			~			~								~			~
+48A Wheel		~			~			~			~								~			~
+49A Swordsman		~			~			~			~								~			~
+50A Gardener		~			~			~			~								~			~
+51A Shaman		~			~			~			~								~			~
+52A Thief		~			~			~			~								~			~
+53A Onmyoji		~			~			~			~								~			~			Iz the Dancer (new)
+54A Swordsman		~			~			~			~								~			~
+55A Apple		Toaster			Metal (-)		Bath			~								Toaster			Hip Hop (+)
+56A Nerd (+)		Bodhisattva		Neneko (+)		Weightlifter (+)	~								Bodhisattva		Vaulter (+)
+
+57A Juliet		BW Axe (+)		Juliet			Vaulter (+)		~//Cat Jobs (+)							BW Cat (+)		Fencer			Iz the Dancer (new)
+
+58A Wushu		~			~			~			~								~			~
+59A Ebisu (+)		BW Axe (+)		Cat Base Mini (new) (+)	Sniper (+)		~//Driller (+)							BW Cat (+)		Bath
+60A Mer			~			~			~			~								~			~
+61A Salon		~			~			~			~								~			~
+62A Rocker		~			~			~			~								~			~
+63A Welterweight	~			~			~			~								~			~
+
+64A Vaulter (+)		Nerd (+)		Cutter (+)		Nerd (+)		~								~			Bodhisattva
+
+65A Vaulter (+)		Bodhisatvva		Apple			Driller (+)		~//Piledriver (new) (+)						Bodhisatvva		Delinquent
+66A Shaman		~			~			~			~								~			~
+
+67A Mer			~			~			~			~								~			~			Dasli (+)
+    BotB		Miracle Selection	MonGals			Dragon Emperors		Ultra Souls/Wargods/Almighties//Iron Legion			Excellent Selection	Epicfest		Legend/Plat
+    17.10-21.10		14.10-17.10		~			17.10-19.10		19-21/21-23/23.10-25.10//25.10-28.10				21.10-25.10		25.10-28.10		-
+
+Plan:
+25.10
+11-draw on Excellent Selection (BW Tank x2, Hip Hop)
+11-draw on Excellent Selection (Hip Hop, BW Cat, Surfer)
+11-draw on Epicfest (Hip Hop, Vaulter)
+1x ticket on Platinum (Iz the Dancer)
+6x tickets on Excellent Selection (BW Cat)
+1x ticket on Almighties (Nerd)
+2x tickets on IL (Piledriver)
+1x ticket on Platinum (Dasli)
+
+In total:
+Trixi, Li'l Valk, BW Tank +1, Iz the Dancer, Piledriver
+Weightlifter +2, Miter Saw +2, Hip Hop +4, Sushi +1, Vaulter +2, Ebisu +1, BW Cat +2, Nerd +1, Surfer +1, Dasli +1
+
+Total UR gained: 50+11+60+60+11+11+50+6+1+51+1=312
